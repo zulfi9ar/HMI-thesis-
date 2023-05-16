@@ -3,7 +3,7 @@
 2-Install a virtual serial port software, i recommend "https://freevirtualserialports.com/"<br>
 3-make sure you keep HMI.ino in the HMI folder <br>
 4-Make sure you have the latest Nextion and Proteus installed <br>
-5-Make sure you have the arduino library installed in proteus<br>
+5-Make sure you have the arduino library installed in proteus "https://www.theengineeringprojects.com/2015/12/arduino-uno-library-proteus.html"<br>
 6-create a virtual port using the virtual serial port software<br>
 7-launch the nextion file "HMI.HMI"<br>
 8-launch "Circuit.pdsprj" proteus file in "ProteusHMI"<br>
